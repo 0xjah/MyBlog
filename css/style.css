@@ -103,11 +103,11 @@ a{
   }
 }
 .navbar-default {
-  background-color: black;
+  background-color: transparent;
   border-color: transparent;
 }
 .navbar-default.color-fill {
-  background-color: black;
+  background-color: transparent;
   border-color: transparent;
 }
 .btn-nav {
