@@ -21,6 +21,7 @@ li {
     color: #666;
 }
 a{
+  text-decoration: none;
   color:rgba(211, 211, 211, 0.698);
   &:hover{
     color:white
@@ -202,18 +203,19 @@ a{
 }
 .nav-item {
   font-family: Hack;
-  margin: 9px auto;
+  margin: 10px auto;
   text-align: center;
   color: #222;
 }
 .nav-item a:link,
 .nav-item a:hover,
 .nav-item a:focus {
+  text-decoration: none;
   color: #222;
 }
 .nav-item a:hover,
 .nav-item a:focus {
-  border-bottom: 3px solid black;
+  border-bottom: 2px solid black;
 }
 .animated {
   display: block;
